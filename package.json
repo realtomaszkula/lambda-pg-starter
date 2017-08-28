@@ -1,0 +1,22 @@
+{
+  "name": "zet-aws-lambda-pg-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Tomasz Kula",
+  "license": "ISC",
+  "dependencies": {
+    "pg-promise": "^6.5.1"
+  },
+  "devDependencies": {
+
+    "@types/aws-lambda": "*",
+    "@types/node": "*",
+    "@types/pg-promise": "*",
+    "typescript": "*"
+  }
+}
