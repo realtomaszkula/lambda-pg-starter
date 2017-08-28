@@ -10,7 +10,7 @@
   "author": "Tomasz Kula",
   "license": "ISC",
   "dependencies": {
-    "pg-promise": "^6.5.1"
+    "pg-promise": "*"
   },
   "devDependencies": {
 
